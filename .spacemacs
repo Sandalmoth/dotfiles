@@ -44,6 +44,7 @@ values."
      git
      markdown
      org
+     ess
      (shell :variables
             shell-default-height 30
             shell-default-position 'bottom)
