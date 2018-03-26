@@ -38,6 +38,10 @@ values."
      ;; ----------------------------------------------------------------
      python
      helm
+     rust
+     csv
+     yaml
+     ipython-notebook
      auto-completion
      better-defaults
      emacs-lisp
