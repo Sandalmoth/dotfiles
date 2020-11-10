@@ -50,7 +50,8 @@ This function should only modify configuration layer settings."
      ;; markdown
      (multiple-cursors :variables
                        multiple-cursors-backend 'evil-mc)
-     nim
+     (nim :variables
+          nim-backend 'lsp)
      ;; org
      python
      (shell :variables
